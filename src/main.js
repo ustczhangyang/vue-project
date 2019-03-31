@@ -8,7 +8,6 @@ import router from './router.js'
 //导入vue-resource
 import VueResource from 'vue-resource'
 Vue.use(VueResource)
-
 //Vue.http.options.emulateHTTP = true;
 //请求根路径
 //Vue.http.options.root=''
